@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="style.css" />
+		<title>Rules and Regulations - An-Nahj Islamic Institute</title>
+	</head>
+	<body>
+		<header>
+			<img src="image.png" alt="Institute Logo" class="logo" />
+		</header>
+		<section class="content">
+			<h2>Rules & Regulations for the Online Qur’an Class</h2>
+			<ul>
+				<li>
+					All lessons, materials, and instructions will be shared on the
+					WhatsApp class group.
+				</li>
+				<li>
+					Students must check the group regularly to stay updated with classes
+					and assignments, as well as necessary updates.
+				</li>
+				<li>
+					The discussion groups are strictly for learning purposes and
+					assignments submission; unnecessary chats or unrelated posts are not
+					allowed
+				</li>
+				<li>
+					Respect must be maintained towards teachers and fellow students at all
+					times
+				</li>
+				<li>All fees for must be paid before the beginning of each month.</li>
+				<li>The latest date for payment is the 10th day of the month</li>
+				<li>
+					Payments made for a month will not be rolled over to the next month
+					unless the Director approves it under special circumstances
+				</li>
+				<li>
+					All study materials provided in the class must not be shared outside
+					the group without prior permission from the Director or teacher
+				</li>
+				<li>
+					Fees once paid are non-refundable unless otherwise approved by the
+					Director
+				</li>
+				<li>
+					Students who wish to withdraw should inform the administration in
+					advance
+				</li>
+				<li>
+					Students are expected to complete assignments and submit them as
+					required
+				</li>
+				<li>
+					Consistent inactivity without notice may lead to removal from the
+					class
+				</li>
+			</ul>
+		</section>
+
+		<div class="next">
+			<a href="instructor.html">Previous Page</a>
+			<a href="contact.html">Home Page</a>
+		</div>
+	</body>
+</html>
